@@ -4,10 +4,10 @@
 ## I'm a Developer , Designer & coder!!!
 
 - 🔭 I’m currently working in **[IIC TMSL](https://ankitpodder2000.github.io/iictmsl/)**
-- 🌱 I’m currently learning Machine Learning using **[Tensorflow](http://tensorflow.org/)**
-- 💬 Ask me about python , c or JS !!!
+- 🌱 I’m currently learning Machine Learning using **[Tensorflow](http://tensorflow.org/)** **[React](https://reactjs.org/)** .
+- 💬 Ask me about **python , c or JS !!!**
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw , cycling !!!
+- ⚡ Fun fact: I love to **draw , cycling !!!**
 
 ### Spotify Playing 🎧
 
