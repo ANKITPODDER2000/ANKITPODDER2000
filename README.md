@@ -38,7 +38,10 @@
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
 <br/><br/>
-### Most used Code
+**************************************
+**************************************
+
+### Most used Code(Python)
 
 ```python
 import tensorflow as tf
@@ -52,9 +55,46 @@ import zipfile
 import os
 import cv2
 ``` 
+
+**************************************
+**************************************
+
+### Most used Code(React)
+
+```javascript
+  
+import React, { Component } from 'react';
+import Enter from "./Enter";
+import Input from "./Input";
+import Paragraph from "./Paragraph";
+import Buttons from "./Buttons";
+import DeleteNumber from "./DeleteNumber";
+import NewDeleteNumber from "./NewDeleteNumber";
+import './App.css';
+
+class App extends Component{
+    render() {
+        return (
+            <div className="App">
+                <h1>Hello</h1>
+                <Enter />
+                <Input />
+                <Paragraph />
+                <Buttons />
+                <DeleteNumber />
+                <NewDeleteNumber />
+            </div>
+        )
+    }
+}
+
+export default App;
+
+```
+
 <br />
+
 <img alt="ANKITPODDER2000's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ANKITPODDER2000&show_icons=true&hide_border=true" />
 
 <br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITPODDER2000&show_icons=true&hide_border=true" />
