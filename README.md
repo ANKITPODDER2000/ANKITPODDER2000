@@ -53,4 +53,8 @@ import os
 import cv2
 ``` 
 <br />
-<img align="left" alt="ANKITPODDER2000's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ANKITPODDER2000&show_icons=true&hide_border=true" />
+<img alt="ANKITPODDER2000's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ANKITPODDER2000&show_icons=true&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITPODDER2000&show_icons=true&hide_border=true" />
