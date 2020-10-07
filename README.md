@@ -21,6 +21,9 @@
 [<img align="left" alt="Ankit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ankitpodder211/)
 
 <br />
+<br />
+
+*****************************
 
 ###  Languages and Tools:
 
@@ -39,7 +42,6 @@
 
 <br/><br/>
 **************************************
-**************************************
 
 ### Most used Code(Python)
 
@@ -56,7 +58,6 @@ import os
 import cv2
 ``` 
 
-**************************************
 **************************************
 
 ### Most used Code(React)
