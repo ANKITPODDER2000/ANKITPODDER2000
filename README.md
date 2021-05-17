@@ -1,5 +1,5 @@
 ### Hi there , I'm [Ankit Podder](https://github.com/ANKITPODDER2000) 👋
-[![Website](https://img.shields.io/website?label=ankitpodder&style=for-the-badge&url=https%3A%2F%2Fankitpodder.digital)](https://ankitpodder2000.github.io/mysite/)
+[![Website](https://img.shields.io/website?label=ankitpodder&style=for-the-badge&url=https%3A%2F%2Fhttps://ankitpodder2000.github.io/mysite/)](https://ankitpodder2000.github.io/mysite/)
 
 ## I'm a Developer , Designer & coder!!!
 
