@@ -9,10 +9,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to **draw , cycling !!!**
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ankit Spotify Playing" width="350" />](https://open.spotify.com/user/316aayv46w66n6f2xt3nbh5dr3hi)
-
 ### Connect with me:
 
 [<img align="left" alt="ankitpodder.digital" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://ankitpodder.digital/)
@@ -92,10 +88,5 @@ class App extends Component{
 export default App;
 
 ```
-
-<br />
-
-<img alt="ANKITPODDER2000's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ANKITPODDER2000&show_icons=true&hide_border=true" />
-
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITPODDER2000&show_icons=true&hide_border=true" />
